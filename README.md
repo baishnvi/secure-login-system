@@ -111,3 +111,14 @@ auth-login-system/
 ## Deployment notes
 - Same domain or proxy: keep `COOKIE_SAMESITE=lax`.
 - Frontend and API on different domains (e.g. Vercel + Render): set `NODE_ENV=production`, `COOKIE_SAMESITE=none`, `TRUST_PROXY=1`, `CLIENT_ORIGIN=<frontend URL>`, and `VITE_API_URL=<API URL>` on the frontend.
+
+## Live Demo
+<img width="1366" height="768" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/e5d0ad9d-da1c-42c2-8aa1-2ddf7c34d863" />
+
+<img width="1366" height="768" alt="Screenshot (527)" src="https://github.com/user-attachments/assets/e2f52e6b-9121-4030-8cc7-d9eaf2241de1" />
+
+<img width="1366" height="768" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/727c1850-765c-4809-b42d-fb811d2aa6a1" />
+
+<img width="1366" height="768" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/78cda35f-6a4c-4e80-9ce6-37f9f65f433a" />
+
+
